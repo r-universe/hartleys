@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "JunctionSeq"]
-	path = JunctionSeq
-	url = https://github.com/hartleys/junctionseq
-	shallow = true
-	subdir = JunctionSeq
-	registered = true
